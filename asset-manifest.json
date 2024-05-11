@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/26-29.ui-bll.props-route.state/static/css/main.27f3226b.css",
+    "main.js": "/26-29.ui-bll.props-route.state/static/js/main.4ab6a5f6.js",
+    "index.html": "/26-29.ui-bll.props-route.state/index.html",
+    "main.27f3226b.css.map": "/26-29.ui-bll.props-route.state/static/css/main.27f3226b.css.map",
+    "main.4ab6a5f6.js.map": "/26-29.ui-bll.props-route.state/static/js/main.4ab6a5f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27f3226b.css",
+    "static/js/main.4ab6a5f6.js"
+  ]
+}
